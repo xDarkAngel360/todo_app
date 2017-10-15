@@ -1,0 +1,14 @@
+.Blue:hover {
+    background-color: Blue;
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: #05FF93;
+}
+body {
+    background-color: #36454F;
+}
+h1 {
+    color: #05FF93;
+}
